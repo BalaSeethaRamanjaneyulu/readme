@@ -3,30 +3,31 @@
 ![Banner](./banner.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/AI--Developer-purple?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Full--Stack-Engineer-blue?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/IOT-Enthusiast-green?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a passionate **Full Stack Developer** and **Researcher** focused on building intelligent systems that solve real-world problems. With a strong foundation in **Algorithmic Thinking** and **AI**, I enjoy crafting seamless user experiences and robust backend architectures.
+I am a passionate **AI Developer** and **Full Stack Engineer** specializing in IoT, ML/AI, and human-centered digital experiences. Based in India, I enjoy building intelligent systems that solve real-world problems.
 
-- 🔭 I’m currently working on **Algorithmic Thinking Lab** & **IntelliAttend**.
-- 🧪 My research interests include **Wireless Sensor Networks** and **Cognitive Radio**.
-- 🛠️ Expertise in **FastAPI**, **React**, and **Automated Scrapers**.
-- 💬 Ask me about **Linux Automation** or **Python Backend Architecture**.
+- 🔭 I’m currently working on **Algorithmic Thinking Lab**, **IntelliAttend**, and **Research Projects**.
+- 🧪 My research interests include **Wireless Sensor Networks**, **Cognitive Radio**, and **AI Ethics**.
+- 🏆 **Smart India Hackathon Finalist** and **BITS Pilani National Event Winner**.
+- 💬 Ask me about **AI Integration**, **IoT Solutions**, or **Modern Web Architectures**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,mongodb,postgresql,docker,git,linux,bash,vscode&perline=7" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,kotlin&perline=7" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,express,mongodb,postgresql&perline=7" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,aws,git,linux,figma,postman&perline=7" alt="Tools" />
+</div>
 
 ---
 
@@ -48,20 +49,24 @@ I am a passionate **Full Stack Developer** and **Researcher** focused on buildin
   <a href="https://github.com/BalaSeethaRamanjaneyulu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/balaseetharamanjaneyulu" target="_blank">
+  <a href="https://www.linkedin.com/in/balaseetharamanjaneyulu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="https://x.com/Mr_BBSR" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:balaseetharamanjaneyulu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📜 Current Projects
-- **[Algorithmic Thinking Lab](https://github.com/BalaSeethaRamanjaneyulu/algorithmic-thinking-lab)**: A space for exploring complex data structures and algorithms.
-- **[IntelliAttend](https://github.com/BalaSeethaRamanjaneyulu/IntelliAttend)**: Smart attendance management system.
-- **[Linux Dictation](https://github.com/BalaSeethaRamanjaneyulu/linux-dictation)**: Voice-to-text integration for Linux environments.
+### 📜 Featured Projects
+- **[ICEAMS 2025](https://github.com/BalaSeethaRamanjaneyulu/iceams-2025)**: IIT Hyderabad × DRDO Technical Event collaboration.
+- **[Whisper Web Dictation](https://github.com/BalaSeethaRamanjaneyulu/Linux-Dictation-APP)**: Privacy-first, local speech-to-text integration.
+- **[IntelliAttend](https://github.com/BalaSeethaRamanjaneyulu/IntelliAttend)**: Smart AI-based attendance management system.
+- **[Algorithmic Thinking Lab](https://github.com/BalaSeethaRamanjaneyulu/algorithmic-thinking-lab)**: Advanced data structures and algorithms exploration.
 
 ---
 
