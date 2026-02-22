@@ -33,13 +33,13 @@ I am a passionate **AI Developer** and **Full Stack Engineer** specializing in I
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalaSeethaRamanjaneyulu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bala's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaSeethaRamanjaneyulu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BalaSeethaRamanjaneyulu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Bala's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaSeethaRamanjaneyulu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.vercel.app?user=BalaSeethaRamanjaneyulu&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
